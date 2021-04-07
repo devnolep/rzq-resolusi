@@ -7,3 +7,6 @@ RENCANA KONTEN
 - Menyelesaikan video tutorial
 - Membuat sertifikat Seminar BNN
 - Menyelesaikan tugas jarkom
+- Belajar flutter
+  * Widget
+  * StatelessFull
