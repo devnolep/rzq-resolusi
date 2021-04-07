@@ -10,5 +10,6 @@ RENCANA KONTEN
   * Aplikasi Manajemen Karyawan
 - Membuat sertifikat Seminar BNN
 - Menyelesaikan tugas jarkom
-- Belajar Flutter
+- Belajar flutter
   * Widget
+  * StatelessFull
