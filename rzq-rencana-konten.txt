@@ -2,6 +2,7 @@ RENCANA KONTEN
 - Memnyelesaikan projek Nusagama
   * Research UX
   * Meeting team dan client
+  * Membuat rancangan wireframe berdasarkan hasil meeting dengan client
 - Memperbaiki fitur web Rumah Laundry
 - Menyelesaikan video tutorial
 - Membuat sertifikat Seminar BNN
