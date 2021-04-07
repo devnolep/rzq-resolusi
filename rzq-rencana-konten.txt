@@ -1,4 +1,6 @@
 RENCANA KONTEN
 - Memnyelesaikan projek Nusagama
+  * Research UX
+  * Meeting team dan client
 - Memperbaiki fitur web Rumah Laundry
 - Menyelesaikan video tutorial
