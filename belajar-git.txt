@@ -2,3 +2,6 @@ BELAJAR GIT & GITHUB
 - Mempelajari Apa itu GIT & Github
 - Membuat Repositori
 - Belajar Git Branch
+
+Menggunakan Github pada projek website
+- Bekerja dan belajar manajemen source cpde dengan GitHub
