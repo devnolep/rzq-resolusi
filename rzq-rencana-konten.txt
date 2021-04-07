@@ -11,3 +11,4 @@ RENCANA KONTEN
 - Membuat sertifikat Seminar BNN
 - Menyelesaikan tugas jarkom
 - Belajar Flutter
+  * Widget
