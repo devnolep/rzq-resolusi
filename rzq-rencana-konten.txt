@@ -4,7 +4,10 @@ RENCANA KONTEN
   * Meeting team dan client
   * Membuat rancangan wireframe berdasarkan hasil meeting dengan client
 - Memperbaiki fitur web Rumah Laundry
+  * Menambahkan fitur maps
 - Menyelesaikan video tutorial
+  * Aplikasi Point Of Sale
+  * Aplikasi Manajemen Karyawan
 - Membuat sertifikat Seminar BNN
 - Menyelesaikan tugas jarkom
 - Belajar flutter
